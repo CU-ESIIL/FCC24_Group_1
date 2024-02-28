@@ -12,7 +12,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 ## Group Members
 - Member 1: Brief description
 - Charles Zhang: Brief description
-- Member 3: Nicole Hemming-Schroeder
+- Nicole Hemming-Schroeder: Brief description
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
