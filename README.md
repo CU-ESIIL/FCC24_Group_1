@@ -10,7 +10,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 
 
 ## Group Members
-- Member 1: Brief description
+- Ethan Yackulic: Brief description
 - Charles Zhang: Brief description
 - Nicole Hemming-Schroeder: Brief description
 - ...
