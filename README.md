@@ -13,6 +13,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 - Ethan Yackulic: Brief description
 - Charles Zhang: Brief description
 - Nicole Hemming-Schroeder: Brief description
+- Alex Vierod: Brief desc
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
