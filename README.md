@@ -8,7 +8,7 @@ We're interested in post-fire vegetation recovery in the Southern Rockies. Inspi
 To this end, we create a dataset composed of disturbance data, climate data, weather data, and various other features such as __. [insert details]. Then we fit a gradient boosted decision tree model on a binary classification task, predicting the post-disturbance recovery to forest or non-forest given our predictors, with each example being a single disturbance pixel.
 
 ## Documentation
-- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+- Access detailed documentation on our [GitHub Pages site](cu-esiil.github.io/FCC24_Group_1/).
 
 
 ## Group Members
@@ -16,8 +16,7 @@ To this end, we create a dataset composed of disturbance data, climate data, wea
 - Charles Zhang: Brief description
 - Nicole Hemming-Schroeder: Brief description
 - Alex Vierod: Brief desc
-- ...
-- [Link to more detailed bios or profiles if available and desired.]
+
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
