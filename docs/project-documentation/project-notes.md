@@ -12,7 +12,7 @@ What variables are best at predicting whether an area affected by wildfire in th
 
 ## Day 2: March 13, 2024 - CU Boulder
 
-- Established data sources: CBI, LCMap, the disturbance dataset, CHELSA
+- Established data sources: CBI, LCMAP, CU Boulder Disturbance Stack, CHELSA
 - Loaded/downloaded data, and established the data processing pipeline and end product: a tabular dataset with each pixel relating to a disturbance event and the corresponding features, with the ground truth label being 1 = recovered to forest and 0 = recovered to shrub/grassland (after a 10 year period)
 
 ## Day 3: March 14, 2024 - Virtual due to snow :(
