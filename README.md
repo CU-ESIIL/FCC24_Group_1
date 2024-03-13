@@ -12,10 +12,10 @@ To this end, we create a dataset composed of disturbance data, climate data, wea
 
 
 ## Group Members
-- Ethan Yackulic: Brief description
-- Charles Zhang: Brief description
-- Nicole Hemming-Schroeder: Brief description
-- Alex Vierod: Brief desc
+- Ethan Yackulic: Data scientist at Vibrant Planet
+- Charles Zhang: Post-bac researcher at Harvard University
+- Nicole Hemming-Schroeder: Postdoc at EarthLab
+- Alex Vierod: Remote Sensing Scientist at BeZero Carbon
 
 
 ## Code Repository Structure
