@@ -3,7 +3,7 @@
 Welcome to the **Shifty Shrubs** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 ## Our Project
-We're interested in post-fire vegetation recovery in the Southern Rockies. Inspired by the post-disturbance reorganization framework of Seidl and Turner 2022, we are interested in looking at the conditions/variables which lead to a complete regime shift where the disturbed area recovers as a non-forest, such as shrubs or grassland. This is also in the context of the changing climate, where some forested areas maybe not be as suitable for new growth to emerge post-disturbance. 
+We're interested in post-fire vegetation recovery in the Southern Rockies. Inspired by the post-disturbance reorganization framework of Seidl and Turner 2022, we ask: what conditions/variables lead to a complete regime shift where a post-fire area does not recover as a forest and instead becomes shrub or grassland? We are especially interested in this in the context of climate change, where some forested areas maybe not be as suitable for new growth to emerge post-disturbance--a recent phenomena described as "zombie forests". 
 
 To this end, we create a dataset composed of disturbance data, climate data, weather data, and various other features such as __. [insert details]. Then we fit a gradient boosted decision tree model on a binary classification task, predicting the post-disturbance recovery to forest or non-forest given our predictors, with each example being a single disturbance pixel.
 
