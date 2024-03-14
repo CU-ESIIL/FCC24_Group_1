@@ -1,8 +1,10 @@
 # Project methods overview
 
 ## Data Sources
-List and describe data sources used, including links to cloud-optimized sources. Highlight permissions and compliance with data ownership guidelines.
-
+- CBI (Composite Burn Index)
+- [LCMAP (Land Change Monitoring, Assessment, and Projection)](https://www.usgs.gov/special-topics/lcmap/data): Land cover information
+- CU Boulder Disturbance Stack
+- [CHELSA V1.2](https://chelsa-climate.org/downloads/): climate data
 ## Data Processing Steps
 Describe data processing steps taken, the order of scripts, etc.
 
