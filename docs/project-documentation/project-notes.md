@@ -14,5 +14,6 @@ What variables are best at predicting whether an area affected by wildfire in th
 
 - Established data sources: CBI, LCMAP, CU Boulder Disturbance Stack, CHELSA
 - Loaded/downloaded data, and established the data processing pipeline and end product: a tabular dataset with each pixel relating to a disturbance event and the corresponding features, with the ground truth label being 1 = recovered to forest and 0 = recovered to shrub/grassland (after a 10 year period)
+- preparing analysis using XGBoost and SHAP analysis for feature importance ranking
 
 ## Day 3: March 14, 2024 - Virtual due to snow :(
